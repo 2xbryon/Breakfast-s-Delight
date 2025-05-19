@@ -1,3 +1,6 @@
+Helps to keep track.
+But this is a breakfast blog-esque website where user can browse, search and add their own recipes
+
 All pages include header.php and config.php.
 Config.php connects the webpage to the server
 
