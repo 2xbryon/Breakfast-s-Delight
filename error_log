@@ -1,0 +1,7 @@
+[Wed Apr 02 13:41:56.325300 2025] [php:error] [pid 245853] [client 137.149.228.145:57858] script '/home/node188/song.php' not found or unable to stat
+[Wed Apr 02 13:53:03.248807 2025] [php:error] [pid 238533] [client 137.149.228.145:57909] script '/home/node188/edit_recipe.php' not found or unable to stat, referer: http://node188.peicloud.ca/
+[Wed Apr 02 19:12:08.604298 2025] [php:error] [pid 249095] [client 24.222.103.207:58193] script '/home/node188/edit_recipe.php' not found or unable to stat, referer: http://node188.peicloud.ca/add_recipe.php
+[Wed Apr 02 19:14:22.705596 2025] [php:error] [pid 251619] [client 24.222.103.207:58235] script '/home/node188/edit_recipe.php' not found or unable to stat, referer: http://node188.peicloud.ca/add_recipe.php
+[Wed Apr 02 19:50:09.905076 2025] [php:error] [pid 253247] [client 24.222.103.207:1133] script '/home/node188/recipe_details.php' not found or unable to stat, referer: http://node188.peicloud.ca/search_recipe.php
+[Wed Apr 02 19:51:31.280013 2025] [php:error] [pid 251619] [client 24.222.103.207:1093] script '/home/node188/recipe_details.php' not found or unable to stat, referer: http://node188.peicloud.ca/search_recipe.php
+[Wed Apr 02 19:51:34.492979 2025] [php:error] [pid 251619] [client 24.222.103.207:1093] script '/home/node188/recipe_details.php' not found or unable to stat, referer: http://node188.peicloud.ca/search_recipe.php
